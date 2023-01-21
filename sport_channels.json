@@ -1,92 +1,186 @@
-[{"description":"TRT SPOR is the sports channel of turkey which focuses on the Turkish championship with information on the teams as well as the Players without forgetting the live matches and also the transfer window..","sources":["http://185.83.71.210/trtspor/index.m3u8"],"subtitle":"By Channel","thumb": "https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg","title":"TRT SPOR / TURKIE"},
+[
 
-{"description":"Created in 2006, Arryadia is a television channel that offers various programs to Moroccan viewers, particularly sports fans. Arryadia was launched in September 2006 and has its headquarters in Casablanca. The birth of the The channel was made within the national radio and television company which is the group of public channels in Morocco.Since its creation, the channel has aimed to satisfy sports enthusiasts by offering different programs on each discipline. live transmissions of national, regional or international competitions, it also offers Talkshows, news flashes and magazines focusing on different sports themes.","sources":["https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjg3Njk5Nzdf/ arryadia.jpg","title":"ARRYADIA SPORTS / MOROCCO"},
+{"sources":"http://185.83.71.210/trtspor/index.m3u8",
+"thumb": "https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg",
+"title":"TRT SPOR / TURKIE"},
 
-{"description":"MATCH TV is the sports channel of Russia which focuses on the international championship with information on the teams as well as the Players without forgetting the live matches and also the transfer window..","sources":[ "http://193.111.244.35:8001/matchtv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg", "title":"MATCH TV"},
+{"sources":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1000000=3-mp4a_130400_qad=1.m3u8",
+"thumb":"https://od.lk/s/M18yNjg3Njk5Nzdf/ arryadia.jpg",
+"title":"ARRYADIA SPORTS / MOROCCO"},
 
-{"description":"MATCH 1 is the sports channel of Russia which focuses on the international championship with information on the teams as well as the Players without forgetting the live matches and also the transfer window..","sources":[ "http://193.111.244.35:8001/matchfut1/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg", "title":"MATCH 1"},
+{"sources":"http://193.111.244.35:8001/matchtv/index.m3u8",
+"thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+"title":"MATCH TV"},
 
-{"description":"MATCH 2 is the sports channel of Russia which focuses on the international championship with information on the teams as well as the Players without forgetting the live matches and also the transfer window..","sources":[ "http://193.111.244.35:8001/matchfutbol2hd/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg", "title":"MATCH 2"},
+{"sources":"http://193.111.244.35:8001/matchfut1/index.m3u8",
+"thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+"title":"MATCH 1"},
 
-{"description":"MATCH is the sports channel of Russia which focuses on the international championship with information on the teams as well as the Players without forgetting the live matches and also the transfer window..","sources":[" http://193.111.244.35:8001/matchprem/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg"," title":"MATCH 3"},
+{"sources":"http://193.111.244.35:8001/matchfutbol2hd/index.m3u8",
+"thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+"title":"MATCH 2"},
 
-{"description":"Equipe 21 tv is a French television channel dedicated to sports..","sources":["https://s13.tntendirect.com/lequipe21/live/chunks.m3u8"],"subtitle ":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"TEAM 21 / FRANCE"},
+{"sources":" http://193.111.244.35:8001/matchprem/index.m3u8",
+"thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
+"title":"MATCH 3"},
 
-{"description":"Eurosports 1 is a 100% sports TV channel","sources":["http://193.111.244.35:8001/eurosport/index.m3u8"],"subtitle":"By Channel", "thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 1"},
+{"sources":"https://s13.tntendirect.com/lequipe21/live/chunks.m3u8",
+"thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png",
+"title":"TEAM 21 / FRANCE"},
 
-{"description":"CBC SPORT tv is a Turkish sports television channel.","sources":["http://135.125.234.9:8081/cbcsport/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcxNzVf/cbcsport.jpg","title":"CBC SPORT / TURKIE TV"},
+{"sources":"http://193.111.244.35:8001/eurosport/index.m3u8",
+"thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png",
+"title":"EUROSPORTS 1"},
 
-{"description":"A Sport tv is a Turkish television channel dedicated to sports.","sources":["http://135.125.234.9:8081/aspor/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png","title":"A SPORT / TURKIE"},
+{"sources":"http://135.125.234.9:8081/cbcsport/index.m3u8",
+"thumb":"https://od.lk/s/M18yODM4NjcxNzVf/cbcsport.jpg",
+"title":"CBC SPORT / TURKIE TV"},
 
-{"description":"axs tv is a television channel dedicated to combat sports..","sources":["https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODM2MDI5Mzlf/axstv.png","title":"AXS TV"},
+{"sources":"http://135.125.234.9:8081/aspor/index.m3u8",
+"thumb":"https://od.lk/s/M18yODM4NjcyOTFf/ahaber.png",
+"title":"A SPORT / TURKIE"},
 
-{"description":"TV RI Sports is the sports channel of the United States which focuses on the International and American championship with information on the teams as well as the Players without forgetting the live matches and also the transfer window.."," sources":["http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8"],"subtitle":" By Channel","thumb":"https://od.lk/s/M18yODEyNjA3Mzhf/tvri.jpg","title":"TV RI / SPORTS"},
+{"sources":"https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8",
+"thumb":"https://od.lk/s/M18yODM2MDI5Mzlf/axstv.png",
+"title":"AXS TV"},
 
-{"description":"Fights Sports Sports is the sports channel of the United States which focuses on the International and American championship with information on the teams as well as the Players without forgetting the live matches and also the transfer window.."," sources":["https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8"],"subtitle":"By Channel","thumb":"https:/ /od.lk/s/M18yODEyNjEwNjNf/fighttv.jpg","title":"FIGHTS TV / SPORTS"},
+{"sources":"http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8",
+"thumb":"https://od.lk/s/M18yODEyNjA3Mzhf/tvri.jpg",
+"title":"TV RI / SPORTS"},
 
-{"description":"Bein Sports Extra is a television channel specializing in international African music.","sources":["https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8" ],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png","title":"BEIN SPORTS EXTRA"},
+{"sources":"https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8",
+"thumb":"https:/ /od.lk/s/M18yODEyNjEwNjNf/fighttv.jpg",
+"title":"FIGHTS TV / SPORTS"},
 
-{"description":"Bein Extras TV is the channel dedicated to Sports and sports activities....","sources":["https://siloh.pluto.tv/lilo/production/bein/1/master_1 .m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDQ4NzFf/beinextratwo","title":"Bein EXTRAS TV / SPORTS"},
+{"sources":"https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png",
+"title":"BEIN SPORTS EXTRA"},
 
-{"description":"Bein Extras 2 TV is the channel dedicated to Sports and sports activities....","sources":["https://bit.ly/BeinSportXtra?/master.m3u8"]," subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDQ4NTRf/beinextratree","title":"Bein EXTRAS TV / 2"},
+{"sources":"https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8",
+"thumb":"https://od.lk/s/M18yNjUzMDQ4NzFf/beinextratwo",
+"title":"Bein EXTRAS TV / SPORTS"},
 
-{"description":"Bein Extras 3 TV is the channel dedicated to Sports and sports activities....","sources":["https://siloh.pluto.tv/lilo/production/BEIN/ES/ master_1.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDQ5MTFf/beinextrafour","title":"Bein EXTRAS TV / 3"},
+{"sources":"https://bit.ly/BeinSportXtra?/master.m3u8",
+"thumb":"https://od.lk/s/M18yNjUzMDQ4NTRf/beinextratree",
+"title":"Bein EXTRAS TV / 2"},
 
-{"description":"RS News Sports TV is the channel dedicated to Sports and sports activities....","sources":["https://alanza.iptv2022.com/RS_NEWS_SPORTS2/index.m3u8"], "subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ3MTc5NDVf/RSNEWSSPORTS.png","title":"RS NEWS SPORTS TV"},
+{"sources":"https://siloh.pluto.tv/lilo/production/BEIN/ES/ master_1.m3u8",
+"thumb":"https://od.lk/s/M18yNjUzMDQ5MTFf/beinextrafour",
+"title":"Bein EXTRAS TV / 3"},
 
-{"description":"Dash Sports entertainment is a 100% sports television channel from Cameroon","sources":["https://tv.dashacomedia.com:3960/live/dashacomedia2live.m3u8"],"subtitle": "By Channel","thumb":"https://od.lk/s/M18yODQ2NjkyNjdf/dash.png","title":"DASH SPORTS"},
+{"sources":"https://alanza.iptv2022.com/RS_NEWS_SPORTS2/index.m3u8",
+"thumb":"https://od.lk/s/M18yODQ3MTc5NDVf/RSNEWSSPORTS.png",
+"title":"RS NEWS SPORTS TV"},
 
+{"sources":"https://tv.dashacomedia.com:3960/live/dashacomedia2live.m3u8",
+"thumb":"https://od.lk/s/M18yODQ2NjkyNjdf/dash.png",
+"title":"DASH SPORTS"},
 
-{"description":"B-Sports 9 is a television channel specializing in international sports.","sources":["http://93.152.174.144:4000/play/btsport2/index.m3u8"],"subtitle" :"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE5MjNf/b_sport9.jpg","title":"B-SPORTS 9"},
+{"sources":"http://93.152.174.144:4000/play/btsport2/index.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzE5MjNf/b_sport9.jpg",
+"title":"B-SPORTS 9"},
 
-{"description":"FOX SPORTS 2 is the sports channel of the United States which focuses on the International and American championship with information on the teams as well as the Players without forgetting the live matches and also the transfer window.."," sources":["http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s /M18yODA3NzEwMTBf/foxtwo.png","title":"FOX SPORTS 2"},
+{"sources":"http://170.82.200.38:8080/fox_sports_2/tracks-v1a1/mono.m3u8",
+"thumb":"https://od.lk/s /M18yODA3NzEwMTBf/foxtwo.png",
+"title":"FOX SPORTS 2"},
 
-{"description":"Wrestling Sports 1 is an international sports specialty television channel.","sources":["http://89.187.175.143/3075/index.m3u8"],"subtitle":"By Channel" ,"thumb":"https://od.lk/s/M18yNjMzNzIwMjJf/wrestlin.jpg","title":"WRESTLING SPORTS 1"},
+{"sources":"http://89.187.175.143/3075/index.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzIwMjJf/wrestlin.jpg",
+"title":"WRESTLING SPORTS 1"},
 
-{"description":"Wrestling Sports 3 is a specialized international sports television channel.","sources":["http://93.152.174.144:4000/play/WWE/index.m3u8"],"subtitle": "By Channel","thumb":"https://od.lk/s/M18yNjMzNzIwMDZf/wrestl.png","title":"WRESTLING SPORTS 3"},
+{"sources":"http://93.152.174.144:4000/play/WWE/index.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzIwMDZf/wrestl.png",
+"title":"WRESTLING SPORTS 3"},
 
-{"description":"Lax Sports Network is an international sports specialty television channel.","sources":["https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8"],"subtitle": "By Channel","thumb":"https://od.lk/s/M18yODMwNzA4Nzhf/lax.jpg","title":"LAX SPORTS NETWORK"},
+{"sources":"https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8",
+"thumb":"https://od.lk/s/M18yODMwNzA4Nzhf/lax.jpg",
+"title":"LAX SPORTS NETWORK"},
 
-{"description":"Wrestling Sports 2 is an international sports specialty television channel.","sources":["http://89.187.175.143/3037/index.m3u8"],"subtitle":"By Channel" ,"thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png","title":"WRESTLING SPORTS 2"},
+{"sources":"http://89.187.175.143/3037/index.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzE5NjRf/wrestma.png",
+"title":"WRESTLING SPORTS 2"},
 
-{"description":"B-Sports 6 is a television channel specializing in international sports","sources":["https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8"],"subtitle": "By Channel","thumb":"https://od.lk/s/M18yNjMzNzE4NDVf/b_sport6.jpg","title":"B-SPORTS 6"},
+{"sources":"https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8",
+"subtitle": "By Channel","thumb":"https://od.lk/s/M18yNjMzNzE4NDVf/b_sport6.jpg",
+"title":"B-SPORTS 6"},
 
-{"description":"Sky Wrestling TV is the international combat sports channel....","sources":["http://202.44.228.201:1935/aslive/skynetsports4/mono.m3u8"], "subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjg2OTg4MThf/wrestlingsky.jpg","title":"SKY WRESTLING / SPORTS"},
+{"sources":"http://202.44.228.201:1935/aslive/skynetsports4/mono.m3u8",
+"thumb":"https://od.lk/s/M18yNjg2OTg4MThf/wrestlingsky.jpg",
+"title":"SKY WRESTLING / SPORTS"},
 
-{"description":"Real Madrid TV is Real Madrid's team channel dedicated to Sports and team activities....","sources":["https://live.sport2u.tv/ EvoLive/myStream/playlist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODIwOTcxNzhf/sport2u.jpeg","title":"SPORTS 2 YOU" },
+{"sources":"https://live.sport2u.tv/ EvoLive/myStream/playlist.m3u8",
+"thumb":"https://od.lk/s/M18yODIwOTcxNzhf/sport2u.jpeg",
+"title":"SPORTS 2 YOU" },
 
-{"description":"Sports TV is the sports channel focusing on general international sports.","sources":["http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8" ],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODEzNTI0OTZf/sporttv.jpg","title":"SPORTS TV"},
+{"sources":"http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8",
+"thumb":"https://od.lk/s/M18yODEzNTI0OTZf/sporttv.jpg",
+"title":"SPORTS TV"},
 
-{"description":"Sports TV is the sports channel that focuses on general international sports.","sources":["http://93.152.174.144:4000/play/barcatv/index.m3u8"],"subtitle ":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0NjZf/barca","title":"SPORTS TV"},
+{"sources":"http://93.152.174.144:4000/play/barcatv/index.m3u8",
+"thumb":"https://od.lk/s/M18yNjUzMDI0NjZf/barca",
+"title":"SPORTS TV"},
 
-{"description":"Real Madrid TV is Real Madrid's team channel dedicated to Sports and team activities....","sources":["https://bit.ly/RealMadridtv? /chunklist.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid","title":"REAL MADRIDTV"},
+{"sources":"https://bit.ly/RealMadridtv?/chunklist.m3u8",
+"thumb":"https://od.lk/s/M18yNjUzMDI0OTlf/madrid",
+"title":"REAL MADRIDTV"},
 
-{"description":"Trace Sports is a television channel specializing in international sports.","sources":["https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8"],"subtitle":" By Channel","thumb":"https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg","title":"Trace Sports"},
+{"sources":"https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8",
+"thumb":"https://od.lk/s/M18yNjMyMzgzMjNf/TraceAfricajpeg",
+"title":"Trace Sports"},
 
-{"description":"Players Sports is a television channel specializing in international sports.","sources":["https://playerstv-samsungca.amagi.tv/playlist.m3u8"],"subtitle":"By Channel ","thumb":"https://od.lk/s/M18yNjc5Mjg2Nzdf/playerstv.png","title":"PLAY SPORTS"},
+{"sources":"https://playerstv-samsungca.amagi.tv/playlist.m3u8",
+"thumb":"https://od.lk/s/M18yNjc5Mjg2Nzdf/playerstv.png",
+"title":"PLAY SPORTS"},
 
-{"description":"Setana Sports TV is the channel dedicated to Sports and team activities....","sources":["http://213.183.47.50:2085/play/a0dv/index. m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone","title":"SETANA SPORTS TV"},
+{"sources":"http://213.183.47.50:2085/play/a0dv/index. m3u8",
+"thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone",
+"title":"SETANA SPORTS TV"},
 
-{"description":"FootBall Live TV is the channel dedicated to Sports and team activities....","sources":["http://loga.ultratotal.ml/xls/ligota/index. m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot","title":"FOOTBALL LIVE TV"},
+{"sources":"http://loga.ultratotal.ml/xls/ligota/index. m3u8",
+"thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot",
+"title":"FOOTBALL LIVE TV"},
 
-{"description":"B-Sports 1 is a television channel specializing in international sports.","sources":["https://www.livedomovie.com/02_SPORTTV_5_720p/chunklist.m3u8"],"subtitle":" By Channel","thumb":"https://od.lk/s/M18yNjMzNzE3NzNf/b_sport1.jpg","title":"B-Sports 1"},
+{"sources":"https://www.livedomovie.com/02_SPORTTV_5_720p/chunklist.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzE3NzNf/b_sport1.jpg",
+"title":"B-Sports 1"},
 
-{"description":"B-Sports 2 is a television channel specializing in international sports.","sources":["https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"],"subtitle":" By Channel","thumb":"https://od.lk/s/M18yNjMzNzE3Nzlf/b_sport2.jpg","title":"B-Sports 2"},
+{"sources":"https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzE3Nzlf/b_sport2.jpg",
+"title":"B-Sports 2"},
 
-{"description":"B-Sports 3 is a television channel specializing in international sports.","sources":["https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8"], "subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE3NDVf/b_sport3.jpg","title":"B-Sports 3"},
+{"sources":"https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzE3NDVf/b_sport3.jpg",
+"title":"B-Sports 3"},
 
-{"description":"B-Sports 4 is a television channel specializing in international sports.","sources":["https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8"],"subtitle" :"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE3Njhf/b_sport4.jpg","title":"B-Sports 4"},
+{"sources":"https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzE3Njhf/b_sport4.jpg",
+"title":"B-Sports 4"},
 
-{"description":"B-Sports 5 is a television channel specializing in international sports.","sources":["http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8 "],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE3ODhf/b_sport5.jpg","title":"B-Sports 5"},
+{"sources":"http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzE3ODhf/b_sport5.jpg",
+"title":"B-Sports 5"},
 
-{"description":"B-Sports 7 is a television channel specializing in international sports.","sources":["https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8"],"subtitle" :"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE4MjZf/b_sport7.jpg","title":"B-SPORTS 7"},
+{"sources":"https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzE4MjZf/b_sport7.jpg",
+"title":"B-SPORTS 7"},
 
-{"description":"B-Sports 8 is a television channel specializing in international sports.","sources":["http://93.152.174.144:4000/play/btsport1/index.m3u8"],"subtitle" :"By Channel","thumb":"https://od.lk/s/M18yNjMzNzE4MDdf/b_sport8.jpg","title":"B-SPORTS 8"},
+{"sources":"http://93.152.174.144:4000/play/btsport1/index.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzE4MDdf/b_sport8.jpg",
+"title":"B-SPORTS 8"},
 
-{"description":"Abu Dhabi Sports or AD Sports (Arabic: أبوظبي الرياضيّة‎) is an Arabic television channel. It broadcasts from Abu Dhabi, capital of the United Arab Emirates and is owned by Abu Dhabi Media Abu Dhabi Sports Channel is an Arabic television channel. Arab Emirates satellite broadcast from Abu Dhabi.","sources":["http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8"],"subtitle" :"By Channel","thumb":"https://od.lk/s/M18yNTkxODg4OTlf/adone.jpg","title":"ADSPORTS 1"},
+{"sources":"http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8",
+"thumb":"https://od.lk/s/M18yNTkxODg4OTlf/adone.jpg",
+"title":"ADSPORTS 1"},
 
-{"description":"Abu Dhabi Sports or AD Sports (Arabic: أبوظبي الرياضيّة‎) is an Arabic television channel. It broadcasts from Abu Dhabi, capital of the United Arab Emirates and is owned by Abu Dhabi Media Abu Dhabi Sports Channel is an Arabic television channel. Arab Emirates satellite broadcast from Abu Dhabi.","sources":["http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8"],"subtitle" :"By Channel","thumb":"https://od.lk/s/M18yNTkxODg5MjFf/adtwo.jpg","title":"ADSPORTS 2"},
+{"sources":"http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8",
+"thumb":"https://od.lk/s/M18yNTkxODg5MjFf/adtwo.jpg",
+"title":"ADSPORTS 2"},
 
-{"description":"Abu Dhabi Sports or AD Sports (Arabic: أبوظبي الرياضيّة‎) is an Arabic television channel. It broadcasts from Abu Dhabi, capital of the United Arab Emirates and is owned by Abu Dhabi Media Abu Dhabi Sports Channel is an Arabic television channel. Arab Emirates satellite broadcast from Abu Dhabi.","sources":["http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8"],"subtitle" :"By Channel","thumb":"https://od.lk/s/M18yNTkxODg5NTBf/adtree.jpg","title":"ADSPORTS 3"},
+{"sources":"http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8",
+"thumb":"https://od.lk/s/M18yNTkxODg5NTBf/adtree.jpg",
+"title":"ADSPORTS 3"},
 
-{"description":"Luzilandia TV is a sports channel from Brazil.","sources":["https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260. m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png","title":"LUZILANDIA TV / BRASIL"} ]
+{"sources":"https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260. m3u8",
+"thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
+"title":"LUZILANDIA TV / BRASIL"}
+]
