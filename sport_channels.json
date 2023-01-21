@@ -1,5 +1,25 @@
 [
 
+{"sources":"https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8",
+"thumb":"https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png",
+"title":"BEIN SPORTS EXTRA"},
+
+{"sources":"https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8",
+"thumb":"https://od.lk/s/M18yNjUzMDQ4NzFf/beinextratwo",
+"title":"Bein EXTRAS TV / SPORTS"},
+
+{"sources":"https://bit.ly/BeinSportXtra?/master.m3u8",
+"thumb":"https://od.lk/s/M18yNjUzMDQ4NTRf/beinextratree",
+"title":"Bein EXTRAS TV / 2"},
+
+{"sources":"https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8",
+"thumb":"https://od.lk/s/M18yNjUzMDQ5MTFf/beinextrafour",
+"title":"Bein EXTRAS TV / 3"},
+
+{"sources":"https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8",
+"thumb":"https:/ /od.lk/s/M18yODEyNjEwNjNf/fighttv.jpg",
+"title":"FIGHTS TV / SPORTS"},
+
 {"sources":"http://185.83.71.210/trtspor/index.m3u8",
 "thumb": "https://od.lk/s/M18yODA3NTU5MTRf/trtspor.jpg",
 "title":"TRT SPOR / TURKIE"},
@@ -20,7 +40,7 @@
 "thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
 "title":"MATCH 2"},
 
-{"sources":" http://193.111.244.35:8001/matchprem/index.m3u8",
+{"sources":"http://193.111.244.35:8001/matchprem/index.m3u8",
 "thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg",
 "title":"MATCH 3"},
 
@@ -47,26 +67,6 @@
 {"sources":"http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8",
 "thumb":"https://od.lk/s/M18yODEyNjA3Mzhf/tvri.jpg",
 "title":"TV RI / SPORTS"},
-
-{"sources":"https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8",
-"thumb":"https:/ /od.lk/s/M18yODEyNjEwNjNf/fighttv.jpg",
-"title":"FIGHTS TV / SPORTS"},
-
-{"sources":"https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8",
-"thumb":"https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png",
-"title":"BEIN SPORTS EXTRA"},
-
-{"sources":"https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8",
-"thumb":"https://od.lk/s/M18yNjUzMDQ4NzFf/beinextratwo",
-"title":"Bein EXTRAS TV / SPORTS"},
-
-{"sources":"https://bit.ly/BeinSportXtra?/master.m3u8",
-"thumb":"https://od.lk/s/M18yNjUzMDQ4NTRf/beinextratree",
-"title":"Bein EXTRAS TV / 2"},
-
-{"sources":"https://siloh.pluto.tv/lilo/production/BEIN/ES/ master_1.m3u8",
-"thumb":"https://od.lk/s/M18yNjUzMDQ5MTFf/beinextrafour",
-"title":"Bein EXTRAS TV / 3"},
 
 {"sources":"https://alanza.iptv2022.com/RS_NEWS_SPORTS2/index.m3u8",
 "thumb":"https://od.lk/s/M18yODQ3MTc5NDVf/RSNEWSSPORTS.png",
@@ -101,14 +101,14 @@
 "title":"WRESTLING SPORTS 2"},
 
 {"sources":"https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8",
-"subtitle": "By Channel","thumb":"https://od.lk/s/M18yNjMzNzE4NDVf/b_sport6.jpg",
+"thumb":"https://od.lk/s/M18yNjMzNzE4NDVf/b_sport6.jpg",
 "title":"B-SPORTS 6"},
 
 {"sources":"http://202.44.228.201:1935/aslive/skynetsports4/mono.m3u8",
 "thumb":"https://od.lk/s/M18yNjg2OTg4MThf/wrestlingsky.jpg",
 "title":"SKY WRESTLING / SPORTS"},
 
-{"sources":"https://live.sport2u.tv/ EvoLive/myStream/playlist.m3u8",
+{"sources":"https://live.sport2u.tv/EvoLive/myStream/playlist.m3u8",
 "thumb":"https://od.lk/s/M18yODIwOTcxNzhf/sport2u.jpeg",
 "title":"SPORTS 2 YOU" },
 
@@ -132,11 +132,11 @@
 "thumb":"https://od.lk/s/M18yNjc5Mjg2Nzdf/playerstv.png",
 "title":"PLAY SPORTS"},
 
-{"sources":"http://213.183.47.50:2085/play/a0dv/index. m3u8",
+{"sources":"http://213.183.47.50:2085/play/a0dv/index.m3u8",
 "thumb":"https://od.lk/s/M18yNzE1NDYyNzhf/setantaone",
 "title":"SETANA SPORTS TV"},
 
-{"sources":"http://loga.ultratotal.ml/xls/ligota/index. m3u8",
+{"sources":"http://loga.ultratotal.ml/xls/ligota/index.m3u8",
 "thumb":"https://od.lk/s/M18yNzE1ODgxMTRf/ligafoot",
 "title":"FOOTBALL LIVE TV"},
 
@@ -180,7 +180,7 @@
 "thumb":"https://od.lk/s/M18yNTkxODg5NTBf/adtree.jpg",
 "title":"ADSPORTS 3"},
 
-{"sources":"https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260. m3u8",
+{"sources":"https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/chunklist_w1966712260.m3u8",
 "thumb":"https://od.lk/s/M18yODQ2ODkzMDhf/LUZILA%CC%82NDIA.png",
 "title":"LUZILANDIA TV / BRASIL"}
 ]
