@@ -10,9 +10,6 @@
 
 {"description":"MATCH is the sports channel of Russia which focuses on the international championship with information on the teams as well as the Players without forgetting the live matches and also the transfer window..","sources":[" http://193.111.244.35:8001/matchprem/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODQzNTU3NTJf/match.jpeg"," title":"MATCH 3"},
 
-{"description":"Cis TV (en)
-Based in Guinea Conakry, the cismedias group (cistv-Cis radio 106.FM-CISMEDIAS.COM) offers you information on sports and culture in Africa and elsewhere.","sources":["https://helga. iptv2022.com/Cis_Tv/index.m3u8"],"subtitle":"By Channel","thumb":"https://od.lk/s/M18yODYyNDM2NzBf/cisguinee.png","title":"CIS TV / GUINEA"},
-
 {"description":"Equipe 21 tv is a French television channel dedicated to sports..","sources":["https://s13.tntendirect.com/lequipe21/live/chunks.m3u8"],"subtitle ":"By Channel","thumb":"https://od.lk/s/M18yNTkxODg0ODhf/equipe.png","title":"TEAM 21 / FRANCE"},
 
 {"description":"Eurosports 1 is a 100% sports TV channel","sources":["http://193.111.244.35:8001/eurosport/index.m3u8"],"subtitle":"By Channel", "thumb":"https://od.lk/s/M18yNTkxODgxOTlf/eurone.png","title":"EUROSPORTS 1"},
