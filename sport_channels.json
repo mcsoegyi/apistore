@@ -1,5 +1,33 @@
 [
 
+{"sources":"https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43710.m3u8",
+"thumb":"https://i.imgur.com/Vtk2cGI.png",
+"title":"Bein Sport 1"},
+
+{"sources":"https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43711.m3u8",
+"thumb":"https://i.imgur.com/vUJZSvs.png",
+"title":"Bein Sport 2"},
+
+{"sources":"https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43712.m3u8",
+"thumb":"https://i.imgur.com/UYSMao3.png",
+"title":"Bein Sport 3"},
+
+{"sources":"https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/43400.m3u8",
+"thumb":"https://i.imgur.com/Wi7rhPs.png",
+"title":"BT Sport 1"},
+
+{"sources":"https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41799.m3u8",
+"thumb":"https://i.imgur.com/xZFMYj4.png",
+"title":"SuperSport EPL"},
+
+{"sources":"https://s1.iptvclient.xyz:8443/live/031F304E3DCB9BB3C7FDA2D55CB3FBCE/41766.m3u8",
+"thumb":"https://i.imgur.com/3Zfk41c.png",
+"title":"StarSport 1"},
+
+{"sources":"http://45.90.105.74:25461/live/bud-345182/c39d1f9282/65255.m3u8",
+"thumb":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/512px-Sky_Sport_Football_-_Logo_2020.svg.png",
+"title":"SKY Sport"},
+
 {"sources":"https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8",
 "thumb":"https://od.lk/s/M18yNjMzNzE3MzFf/bein_extra.png",
 "title":"BEIN SPORTS EXTRA"},
