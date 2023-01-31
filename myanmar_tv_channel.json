@@ -1,0 +1,43 @@
+[
+
+{"sources":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
+"thumb":"https://i.imgur.com/ig0QECf.png",
+"title":"Mahar TV"},
+
+{"sources":"https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
+"thumb":"https://i.imgur.com/J4i1VBb.png",
+"title":"MRTV 4"},
+
+{"sources":"http://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
+"thumb":"https://i.imgur.com/7xHSikv.png",
+"title":"Channel 7"},
+
+{"sources":"http://183.89.246.119:8881/play/a080/index.m3u8",
+"thumb":"https://i.imgur.com/6PqxuhF.png",
+"title":"Channel K"},
+
+{"sources":"http://183.89.246.119:8881/play/a082/index.m3u8",
+"thumb":"https://i.imgur.com/MM5evnD.png",
+"title":"Fortune TV"},
+
+{"sources":"http://183.89.246.119:8881/play/a081/index.m3u8",
+"thumb":"https://i.imgur.com/uqrXcWB.png",
+"title":"YTV"},
+
+{"sources":"http://183.89.246.119:8881/play/a07y/index.m3u8",
+"thumb":"https://upload.wikimedia.org/wikipedia/en/6/6e/Channel_9_Myanmar_Logo.jpg",
+"title":"Channel 9"},
+
+{"sources":"http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+"thumb":"https://i.imgur.com/nssm7QK.png",
+"title":"MNTV"},
+
+{"sources":"http://183.89.246.119:8881/play/a07t/index.m3u8",
+"thumb":"https://i.imgur.com/c9q6oT0.png",
+"title":"MRTV Entertainment"},
+
+{"sources":"http://183.89.246.119:8881/play/a07w/index.m3u8",
+"thumb":"https://i.imgur.com/4EHL2mH.png",
+"title":"5 Plus"}
+
+]
